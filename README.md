@@ -6,6 +6,10 @@ An AI-powered dental patient simulation system for medical training and educatio
 
 This application simulates realistic dental patient interactions, allowing medical students and professionals to practice diagnostic questioning in a safe, controlled environment. The AI patient responds based on predefined pathologies while maintaining realistic conversational behavior.
 
+## 🎥 Demo Video
+
+👉 https://github.com/MihaiAdomnitei/ChatBot/blob/main/Demo.mp4
+
 ## 🏗️ Architecture
 
 ```
