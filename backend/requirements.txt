@@ -1,0 +1,26 @@
+# Core API Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# AI/ML Dependencies
+transformers>=4.36.0
+torch>=2.1.0
+peft>=0.7.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+sentencepiece>=0.1.99
+
+# Frontend
+streamlit>=1.29.0
+requests>=2.31.0
+
+# Development & Testing
+python-multipart>=0.0.6
+httpx>=0.25.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Hugging Face Integration
+huggingface-hub>=0.20.0
+python-dotenv>=1.0.0
